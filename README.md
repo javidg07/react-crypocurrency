@@ -1,1 +1,1 @@
-# react-crypocurrency
+# react-cryptocurrency
